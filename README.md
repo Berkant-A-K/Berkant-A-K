@@ -53,13 +53,12 @@
 
 ---
 
-## 📈 Şu Anda Öğrendiklerim
+## 🧭 İlgi Alanlarım / Areas of Interest
 
--   Clean Architecture
--   Repository Pattern & Unit of Work
--   REST API Development
--   Advanced SQL
--   Yapay Zeka Temelleri
+-   Clean Architecture & Design Patterns
+-   REST API & Microservices
+-   Cloud & DevOps (Azure, Docker, CI/CD)
+-   Agile & Scrum Methodologies
 
 ---
 
@@ -120,20 +119,19 @@
 
 ---
 
-## 📈 Currently Learning
+## 🧭 Areas of Interest
 
--   Clean Architecture
--   Repository Pattern & Unit of Work
--   REST API Development
--   Advanced SQL
--   Artificial Intelligence Fundamentals
+-   Clean Architecture & Design Patterns
+-   REST API & Microservices
+-   Cloud & DevOps (Azure, Docker, CI/CD)
+-   Agile & Scrum Methodologies
 
 ---
 
 ## 📫 Contact
 
 -   GitHub: [https://github.com/Berkant-A-K](https://github.com/Berkant-A-K)
--   LinkedIn: [https://tr.linkedin.com/in/berkant-ataberk-k%C3%B6ken?](https://tr.linkedin.com/in/berkant-ataberk-köken?)
+-   LinkedIn: [https://tr.linkedin.com/in/berkant-ataberk-köken?](https://tr.linkedin.com/in/berkant-ataberk-köken?)
 -   Email: berkant.ataberk@outlook.com
 
 ---
