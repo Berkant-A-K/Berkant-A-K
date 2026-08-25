@@ -18,7 +18,7 @@
 
 ## 🎓 Eğitim
 
--   🎓 **Okan Üniversitesi** – İngilizce Öğretmenliği (Lisans)
+-   🎓 **Okan Üniversitesi** – İngilizce Öğretmenliği
     
 -   🏫 **Arı Bilgi Bilişim Akademisi** – Microsoft Full-Stack Developer Programı
 
@@ -32,14 +32,13 @@
 -   ASP.NET MVC
 -   .NET Framework
 -   Entity Framework
--   LINQ
 
 ### 🌐 Frontend
 
 -   HTML5
 -   CSS3
 -   Bootstrap 5
--   JavaScript (Temel)
+-   JavaScript
 
 ### 🗄️ Veritabanı
 
@@ -49,7 +48,6 @@
 
 -   Visual Studio
 -   Git & GitHub
--   Postman
 
 ---
 
@@ -58,7 +56,6 @@
 -   Clean Architecture & Design Patterns
 -   REST API & Microservices
 -   Cloud & DevOps (Azure, Docker, CI/CD)
--   Agile & Scrum Methodologies
 
 ---
 
@@ -84,7 +81,7 @@
 
 ## 🎓 Education
 
--   🎓 **Okan University** – English Language Teaching (Bachelor's)
+-   🎓 **Okan University** – English Language Teaching
     
 -   🏫 **Arı Bilgi Bilişim Akademisi** – Microsoft Full-Stack Developer Program
 
@@ -98,14 +95,13 @@
 -   ASP.NET MVC
 -   .NET Framework
 -   Entity Framework
--   LINQ
 
 ### 🌐 Frontend
 
 -   HTML5
 -   CSS3
 -   Bootstrap 5
--   JavaScript (Basics)
+-   JavaScript
 
 ### 🗄️ Database
 
@@ -115,7 +111,6 @@
 
 -   Visual Studio
 -   Git & GitHub
--   Postman
 
 ---
 
@@ -124,7 +119,6 @@
 -   Clean Architecture & Design Patterns
 -   REST API & Microservices
 -   Cloud & DevOps (Azure, Docker, CI/CD)
--   Agile & Scrum Methodologies
 
 ---
 
