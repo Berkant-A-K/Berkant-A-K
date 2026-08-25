@@ -51,7 +51,7 @@
 
 ---
 
-## 🧭 İlgi Alanlarım / Areas of Interest
+## 🧭 İlgi Alanlarım
 
 -   Clean Architecture & Design Patterns
 -   REST API & Microservices
