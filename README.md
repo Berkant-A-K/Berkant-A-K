@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Berkant
 
-🎯 Yazılım Geliştirici Mezunu | Full-Stack Developer
+🎯 Yazılım Geliştirme Mezunu | Full-Stack Developer
 📍 Türkiye
 🚀 Full-stack geliştirme alanında kendimi geliştirmeye devam ediyorum.
 
@@ -40,10 +40,6 @@
 -   Bootstrap 5
 -   JavaScript
 
-### 🗄️ Veritabanı
-
--   SQL Server
-
 ### 🔧 Araçlar
 
 -   Visual Studio
@@ -58,6 +54,12 @@
 -   Cloud & DevOps (Azure, Docker, CI/CD)
 
 ---
+
+## 📫 İletişim
+
+-   GitHub: [https://github.com/Berkant-A-K](https://github.com/Berkant-A-K)
+-   LinkedIn: [https://tr.linkedin.com/in/berkant-ataberk-köken?](https://tr.linkedin.com/in/berkant-ataberk-köken?)
+-   Email: berkant.ataberk@outlook.com
 
 ---
 
@@ -103,10 +105,6 @@
 -   Bootstrap 5
 -   JavaScript
 
-### 🗄️ Database
-
--   SQL Server
-
 ### 🔧 Tools
 
 -   Visual Studio
@@ -122,7 +120,7 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contact Info
 
 -   GitHub: [https://github.com/Berkant-A-K](https://github.com/Berkant-A-K)
 -   LinkedIn: [https://tr.linkedin.com/in/berkant-ataberk-köken?](https://tr.linkedin.com/in/berkant-ataberk-köken?)
